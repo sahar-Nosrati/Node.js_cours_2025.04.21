@@ -1,1 +1,3 @@
-# Node.js_cours_2025.04.21
+# Create Nowrouz simple web page
+  - Debuging one route
+  - create new HTML and CSS pages
